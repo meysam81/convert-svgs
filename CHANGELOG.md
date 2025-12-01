@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.3](https://github.com/meysam81/convert-svgs/compare/v1.0.2...v1.0.3) (2025-12-01)
+
+
+### Bug Fixes
+
+* **CI:** use normal npm install ([907b6cf](https://github.com/meysam81/convert-svgs/commit/907b6cf2a6e3a8d2d5f04ff18825e581703ea580))
+
 ## [1.0.2](https://github.com/meysam81/convert-svgs/compare/v1.0.1...v1.0.2) (2025-12-01)
 
 
