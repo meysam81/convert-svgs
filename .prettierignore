@@ -5,3 +5,4 @@ dist
 tsconfig.json
 renovate.json
 src/content/blog/*.mdx
+CHANGELOG.md
