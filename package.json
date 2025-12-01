@@ -11,6 +11,7 @@
   },
   "description": "One SVG. All the PNGs you need. Zero config favicon, og-image, and app icon generation.",
   "devDependencies": {
+    "@bun-security-scanner/npm": "^1.0.0",
     "@types/bun": "latest",
     "@types/node": "^22.0.0",
     "oxlint": "^1.0.0",
