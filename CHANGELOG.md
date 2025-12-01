@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.4](https://github.com/meysam81/convert-svgs/compare/v1.0.3...v1.0.4) (2025-12-01)
+
+
+### Bug Fixes
+
+* **CI:** install bun ([c29943b](https://github.com/meysam81/convert-svgs/commit/c29943b1a2791c09044cde90ee774794411750b3))
+
 ## [1.0.3](https://github.com/meysam81/convert-svgs/compare/v1.0.2...v1.0.3) (2025-12-01)
 
 
