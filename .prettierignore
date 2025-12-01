@@ -1,0 +1,7 @@
+dist
+.astro
+.claude
+.oxlintrc.json
+tsconfig.json
+renovate.json
+src/content/blog/*.mdx

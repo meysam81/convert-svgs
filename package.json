@@ -1,0 +1,84 @@
+{
+  "author": "Meysam Azad <meysam@meysam.io>",
+  "bin": {
+    "convert-svgs": "./dist/bin/cli.js"
+  },
+  "bugs": {
+    "url": "https://github.com/meysam81/convert-svgs/issues"
+  },
+  "dependencies": {
+    "sharp": "^0.33.0"
+  },
+  "description": "One SVG. All the PNGs you need. Zero config favicon, og-image, and app icon generation.",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/node": "^22.0.0",
+    "oxlint": "^1.0.0",
+    "prettier": "^3.0.0",
+    "typescript": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "files": [
+    "dist/",
+    "README.md",
+    "LICENSE"
+  ],
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/meysam81"
+  },
+  "homepage": "https://github.com/meysam81/convert-svgs#readme",
+  "keywords": [
+    "svg",
+    "png",
+    "convert",
+    "favicon",
+    "favicon-generator",
+    "apple-touch-icon",
+    "og-image",
+    "opengraph",
+    "twitter-card",
+    "twitter-image",
+    "android-chrome",
+    "pwa-icons",
+    "image-converter",
+    "sharp",
+    "cli",
+    "zero-config"
+  ],
+  "license": "Apache-2.0",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "name": "convert-svgs",
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meysam81/convert-svgs.git"
+  },
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "lint": "oxlint .",
+    "lint:fix": "oxlint . --fix --fix-suggestions",
+    "prepublishOnly": "bun run lint && bun run build && bun test",
+    "test": "bun test",
+    "typecheck": "tsc --noEmit"
+  },
+  "sideEffects": false,
+  "type": "module",
+  "types": "dist/index.d.ts",
+  "version": "1.0.0"
+}

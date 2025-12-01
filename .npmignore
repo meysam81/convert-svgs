@@ -1,0 +1,13 @@
+.github/
+.gitignore
+.eslintrc.json
+test/
+coverage/
+.nyc_output/
+*.log
+.DS_Store
+.env*
+.idea/
+.vscode/
+CONTRIBUTING.md
+CHANGELOG.md
