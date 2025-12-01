@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/meysam81/convert-svgs/compare/v1.0.1...v1.0.2) (2025-12-01)
+
+
+### Bug Fixes
+
+* **CI:** use npm for publish ([70590f9](https://github.com/meysam81/convert-svgs/commit/70590f96d1cc6bf1c8bfaf2d2910511cb9f9fead))
+
 ## 1.0.1 (2025-12-01)
 
 
