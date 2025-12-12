@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.5](https://github.com/meysam81/convert-svgs/compare/v1.0.4...v1.0.5) (2025-12-12)
+
+
+### Bug Fixes
+
+* **docs:** update readme badge url ([c0e81f2](https://github.com/meysam81/convert-svgs/commit/c0e81f29a64be6895f16f4e7ffab193b87f104e6))
+
 ## [1.0.4](https://github.com/meysam81/convert-svgs/compare/v1.0.3...v1.0.4) (2025-12-01)
 
 
