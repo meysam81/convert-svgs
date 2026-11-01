@@ -7,7 +7,7 @@
     "url": "https://github.com/meysam81/convert-svgs/issues"
   },
   "dependencies": {
-    "sharp": "^0.33.0"
+    "sharp": "^0.35.0"
   },
   "description": "One SVG. All the PNGs you need. Zero config favicon, og-image, and app icon generation.",
   "devDependencies": {
