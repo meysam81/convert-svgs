@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.6](https://github.com/meysam81/convert-svgs/compare/v1.0.5...v1.0.6) (2026-11-01)
+
+
+### CI
+
+* pin actions to commit SHAs, renovate on the shared preset, release-please manifest config ([#9](https://github.com/meysam81/convert-svgs/issues/9)) ([c6cecc1](https://github.com/meysam81/convert-svgs/commit/c6cecc12bd87c07a4863a54b0a8e7effb4974dc9))
+
 ## [1.0.5](https://github.com/meysam81/convert-svgs/compare/v1.0.4...v1.0.5) (2025-12-12)
 
 
